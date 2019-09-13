@@ -1,2 +1,2 @@
-file1 first line
-file2 second line
+1
+2
